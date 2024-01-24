@@ -1,0 +1,35 @@
+body{
+    background: rgb(152,103,236);
+background: linear-gradient(292deg, rgba(152,103,236,1) 0%, rgba(29,97,253,1) 50%, rgba(69,252,238,1) 100%);;
+}
+p{
+ font: size 0.75em;  
+}
+.quote{
+    text-align: center;
+}
+
+h1{
+    color:rgb(206, 43, 43);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    font-size:1 em;
+    color: rgb(201, 25, 25);
+}
+h2{
+    
+    color:rgb(241, 239, 67);
+    font-size: 21px;
+    text-align: center;
+}
+img{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+}
+table, th, td{
+border: 1px solid black;
+}
